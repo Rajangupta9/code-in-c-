@@ -1,0 +1,1 @@
+//write c program to find the two's compliment of a binary number
